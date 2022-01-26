@@ -3,16 +3,16 @@
 </p>
 <div align="center">
 
-# EatKano
+# BreakThrough
 
-_🦌 网页小游戏 🥛_
+_ 网页小游戏 _
 
 </div>
 
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：界限突破
 
 [线上版本](https://xingye.me/game/eatkano/index.php)
 |
